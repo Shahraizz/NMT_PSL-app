@@ -1,0 +1,1 @@
+web: gunicorn NMT_PSL.wsgi --log-file -
